@@ -1,5 +1,8 @@
 # XLS2TXT
 
+![clang](https://github.com/sambacha/xls2txt/workflows/clang/badge.svg)
+
+
 This is a command line tool to convert XLS files to TXT files. It is based on the http://wizard.ae.krakow.pl/~jb/xls2txt/ code.
 
 ## Build
